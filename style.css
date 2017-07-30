@@ -19,6 +19,11 @@ h2, p, li {
 
 .section-heading {
     font-size: 2em;
+    margin-bottom: 0;
+}
+
+.item-header p {
+    margin-bottom: 0;
 }
 
 .item-heading, .section-heading {
