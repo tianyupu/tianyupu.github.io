@@ -29,6 +29,10 @@ p, ul {
     margin-bottom: 0;
 }
 
+p + p {
+    margin-top: 4px;
+}
+
 .lighter {
     color: #999999;
     text-align: end;
